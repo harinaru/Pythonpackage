@@ -1,0 +1,10 @@
+ipywidgets
+notebook
+ensure # for argument passed is corrsct or notebook
+py-youtube
+# DEV TOOLS
+pytest 
+tox
+black # formatting purposes
+flake8 # any errors
+mypy # for type error
