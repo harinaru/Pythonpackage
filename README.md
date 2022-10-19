@@ -1,1 +1,2 @@
-# detailed-project-setip
+# detailed-project-setup
+# IPYNB render python package 
