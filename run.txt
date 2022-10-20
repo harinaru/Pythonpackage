@@ -2,3 +2,5 @@ first run
 python template.py
 bash init_setup.sh
 conda activate ./env
+pytest -v
+tox (Not working with)
