@@ -31,7 +31,7 @@ list_of_files=[
     "pyproject.toml", #https://packaging.python.org/en/latest/tutorials/packaging-projects/
     "setup.cfg",
     "tox.ini" # we are creating python package are normally needed to tested on various environment and aslo we need tesrt repoistory
-"
+
 ]
 
 for filepath in list_of_files:
