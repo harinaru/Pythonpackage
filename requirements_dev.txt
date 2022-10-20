@@ -8,3 +8,4 @@ tox
 black # formatting purposes
 flake8 # any errors
 mypy # for type error
+-e .
